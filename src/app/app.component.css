@@ -1,0 +1,5 @@
+/* Reglas css solo para este componente */
+/* para escribir estilos globales nos vamos a styles.css */
+h1{
+    color: red;
+}
